@@ -34,7 +34,7 @@ local Library = {
     FontColor = Color3.fromRGB(255, 255, 255);
     MainColor = Color3.fromRGB(15, 15, 15);
     BackgroundColor = Color3.fromRGB(16, 16, 16);
-    AccentColor = Color3.fromRGB(0, 255, 255);
+    AccentColor = Color3.fromRGB(0, 235, 255);
     OutlineColor = Color3.fromRGB(51, 51, 51);
     RiskColor = Color3.fromRGB(255, 50, 50),
 
